@@ -2,6 +2,22 @@
 
 ## This is a sample repo we generated on the git tutorial
 
+
+## Here's a LIST!
+
+1. ABC
+
+2. DEF
+
+3. GHI
+
+4. JKL
+
+5. MNO
+
+6. OPQ
+
+
 Here's some filler text!
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tincidunt eu magna ac dapibus. Fusce pretium vehicula malesuada. Nulla congue tincidunt lacus, non porta odio ultrices et. Integer viverra neque vitae ultrices feugiat. Nullam quis bibendum diam, aliquet accumsan augue. Nullam lacinia tristique porttitor. Curabitur iaculis nec urna quis tempus. Quisque porta dui ut mi pretium lacinia.
