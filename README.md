@@ -1,6 +1,6 @@
 # Welcome to the MolSSI Day 2 Git Session
 
-## This is a sample repe we generated on the git tutorial
+## This is a sample repo we generated on the git tutorial
 
 Here's some filler text!
 
